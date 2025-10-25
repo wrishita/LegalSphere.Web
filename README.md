@@ -5,9 +5,9 @@
 **LegalSphere** is an AI-driven research engine designed to provide in-depth legal case analysis. With an **advanced Retrieval-Augmented Generation (RAG) model** and a suite of visualization tools, LegalSphere enables users—especially legal professionals and researchers—to gain a comprehensive understanding of a case’s strengths, weaknesses, supporting evidence, and other crucial details within seconds.
 
 The Project was build by Team Sarvasamya :
-- [Sarfaraj Ansari](https://github.com/sarfarajansari)
+- [Wrishita Paul](https://github.com/wrishita)
+- Sarfaraj Ansari
 - Harsh Dayal
-- Wrishita Paul
 - Aditya Jha
 - Saanvi Sharma
 - Shashank
