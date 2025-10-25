@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "CastoroTitling";
+  src: url("https://s3.us-east-2.amazonaws.com/cdn.spotlessplace.com/wp-content/CastoroTitling-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: BraahOne;
+  src: url("https://s3.us-east-2.amazonaws.com/cdn.spotlessplace.com/wp-content/Merriweather-Regular.ttf");
+}
+.mapboxgl-ctrl-attrib a{
+  display: none;
+}
+
+.a.mapboxgl-ctrl-logo{
+  display: none;
+}
